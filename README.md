@@ -9,4 +9,4 @@ My main focus is on writing clean, maintainable code, using simplicity to achiev
 
 ⚡️Tech i have worked with
 
-React Next.js Node.js MongoDB TypeScript Docker Git GitHub Actions Redux GraphQL Tailwind CSS Sass Prettier Heroku Postman Axios Material-UI NestJs Express Brave Browser MongoDB JavaScript HTML CSS PostgreSQL JSON Web Tokens Bootstrap React Icons Framer Motion GSAP Jira WebSocket SQL Insomnia
+React  `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">   Node.js MongoDB TypeScript Docker Git GitHub Actions Redux GraphQL Tailwind CSS Sass Prettier Heroku Postman Axios Material-UI NestJs Express Brave Browser MongoDB JavaScript HTML CSS PostgreSQL JSON Web Tokens Bootstrap React Icons Framer Motion GSAP Jira WebSocket SQL Insomnia
