@@ -36,16 +36,18 @@ I'm a full-stack developer with a strong focus on building clean, efficient, and
 
 ## 📌 What I'm Currently Doing
 
-- Switching my career focus towards **Cybersecurity**
 - Learning deeper into **System Design**, **DSA**, and **Cloud Architectures**
 - Exploring open-source contributions and collaborations
+- Actively maintaining:
+  - 🔧 [npm-injector](https://github.com/Lucifer007-max/npm-injector.git): A handy CLI tool to inject dependencies directly into a project’s `package.json` — ideal for quick setup and automation workflows.
+  - 🧹 [npm-unused-checker](https://github.com/Lucifer007-max/npm-unused-checker.git): Helps developers clean up their projects by detecting and listing unused npm packages.
 
 ---
 
 ## 🚀 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(coming soon)*  
-- 📫 Reach me at: [your-email@example.com]  
+- 📫 Reach me at: [ajaysharma713347@gmail.com]  
 - 💬 Open to freelance, remote roles, and cool side projects
 
 ---
